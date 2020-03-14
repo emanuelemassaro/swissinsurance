@@ -5,6 +5,6 @@
 
 In this repository we share the Python notebook used for our analysis, the response to the reviewers as well as the public available socio-economic indicators.
 
-We also share a differences.pdf file that shows the differences between the original and revised manuscript.
+We also share a differences.pdf file that shows the differences between the original and the revised manuscript.
 
 
